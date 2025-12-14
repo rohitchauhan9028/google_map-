@@ -1,3 +1,4 @@
+ HEAD
 # Google Maps Scraper (GUI)
 
 ## Requirements
@@ -24,3 +25,5 @@
 
 6. Run the application
    python gui_app.py
+# google_map-
+619775f55148a439555d09faf30f30181e0d67e5
