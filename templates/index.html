@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Maps Scraper</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <h2>Google Maps Scraper</h2>
+
+    <!-- ADD FORM HERE -->
+    <form action="/search" method="post">
+        <input name="keyword" placeholder="gym, shop, hotel" required>
+        <button type="submit">Search</button>
+    </form>
+
+</body>
+</html>
+
